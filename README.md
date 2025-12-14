@@ -27,6 +27,7 @@ storm-water-level-sequential-analysis/
 ├── change_point_detection.R
 ├── final_project.ipynb
 ├── final_project.html
+├── DA380_Final_Project.pdf
 ├── .gitignore
 └── README.md
 ```
