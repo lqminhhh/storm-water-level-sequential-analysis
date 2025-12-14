@@ -13,8 +13,6 @@ Coastal water levels are dominated by tidal cycles, but extreme storms can intro
 - Frequentist mean change detection using PELT
 - Bayesian online change point detection
 
-⸻
-
 ## Repository Structure
 
 ```
